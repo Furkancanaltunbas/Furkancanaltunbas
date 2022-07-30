@@ -1,5 +1,5 @@
 <p align="center"> <img src="https://assets.justinmind.com/wp-content/webp-express/webp-images/uploads/2019/04/app-development-courses-header-image.png.webp" /> </p>
-<h1 align="center">Hi 👋, I'm Furkan Can</h1>
+<h1 align="center">Hi 👋, I'm Furkan Can Altunbaş</h1>
 <h3 align="center">I am a mobile developer and software engineer student.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=furkancanaltunbas&label=Profile%20views&color=0e75b6&style=flat" alt="furkancanaltunbas" /> </p>
