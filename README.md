@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://assets.justinmind.com/wp-content/webp-express/webp-images/uploads/2019/04/app-development-courses-header-image.png.webp" /> </p>
+
 <h1 align="center">Hi 👋, I'm Furkan Can Altunbaş</h1>
 <h3 align="center">I am a mobile developer and software engineer student.</h3>
 
